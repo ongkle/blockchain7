@@ -6,4 +6,5 @@ branch - 작업공간
 commit - 개인저장소에 저장
 push - 원격저장소에 저장
 
-fetch - 작업물 받아오기 
+fetch - 작업물 받아오기
+merge - 
